@@ -17,6 +17,14 @@ The architecture leverages a **Cloud Gateway Ultra** and a **2.5GbE core** to en
 ## 2. Network Topology (Visual)
 The following diagram illustrates the physical and logical flow of the Mas Wild Labs environment. GitHub will automatically render this text into a visual flowchart:
 
+## 2. Network Topology (Visual)
+
+### Physical Layout
+![Mas Wild Network Diagram](./Mas%20Wild%20Network%20Diagram.PNG)
+
+### Logical Flow (Mermaid)
+The following diagram illustrates the data flow within the UniFi ecosystem:
+
 ```mermaid
 graph TD
     subgraph Internet_Edge
